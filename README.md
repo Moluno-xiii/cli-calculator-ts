@@ -26,8 +26,8 @@ To get started, clone this repository and install the necessary dependencies.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/calculator-cli.git
-   cd calculator-cli
+   git clone https://github.com/Moluno-xiii/cli-calculator-ts
+   cd cli-calculator-ts
    ```
 
 2. Run the application:
